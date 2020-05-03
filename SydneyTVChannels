@@ -198,4 +198,12 @@ https://skyliveubet-i.akamaihd.net/hls/live/496748/SKY-LIVE_UBET/ubetsky2.m3u8
 #EXTINF:-1,tvg-logo="https://www.ausbiz.com.au/assets/logo.png" group-title="Finance",AusBiz TV
 http://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
 
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" group-title="News",RT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588533934/ei/TsauXoSpI_me3LUPiM2w4Aw/ip/194.193.194.53/id/NvCSr7qzAAM.2/source/yt_live_broadcast/requiressl/yes/tx/23722138/txs/23722138%2C23722139/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgey3TEQMbOPxc7FeL08MiO2w_HWo6a2sMJ7pGykq98JUCIHB-i30s8r7YfJkXO8e3w7rutcdmkhKIpnj5czRWxKLL/file/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/250px-Sky-news-logo.png" group-title="News",Sky News (UK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588534132/ei/FMeuXrGHE5aJ3LUP14qU6A4/ip/194.193.194.53/id/9Auq9mYxFEE.1/source/yt_live_broadcast/requiressl/yes/tx/23722138/txs/23722138%2C23722139/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgPB0WFnoaHmnijxDdOa-F-Xmkr3a0hLFqyEivz3sw_mICIF42C_M3alX-UviyjQBY_9IOfI9_3WD261CG7GaGpNav/file/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/DW_News_titlecard.jpg/250px-DW_News_titlecard.jpg" group-title="News",DW News (Germany)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
