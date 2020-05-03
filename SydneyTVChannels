@@ -195,3 +195,6 @@ https://skyliveubet-i.akamaihd.net/hls/live/496748/SKY-LIVE_UBET/ubetsky1.m3u8
 #EXTINF:-1 tvg-logo="http://www.skyracing.com.au/assets/website_images/images/Logos/Sky-Racing_MASTER_NEWSP_LOGO_650x300.jpg" group-title="Horse Racing",Sky Racing 2 HD (Alternate Stream)
 https://skyliveubet-i.akamaihd.net/hls/live/496748/SKY-LIVE_UBET/ubetsky2.m3u8
 
+#EXTINF:-1,tvg-logo="https://www.ausbiz.com.au/assets/logo.png" group-title="Finance",AusBiz TV
+http://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
+
