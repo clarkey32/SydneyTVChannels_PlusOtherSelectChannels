@@ -87,6 +87,9 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/California_Music_Channel_Logo.png/220px-California_Music_Channel_Logo.png" group-title="Music",Californian Music Channel (US)
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
+#EXTINF:-1,tvg-logo="https://30a.com/wp-content/uploads/2018/05/30A-logo.gif" group-title="Music",30A Music (USA)
+http://30a-tv.com/music.m3u8?fluxustv.m3u8
+
 #EXTINF:-1,tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5b83fddb0263265af99cd1af38eb4300.png" group-title="Music",DJING Classic (France)
 http://djing.com/tv/hits.m3u8
 
