@@ -48,6 +48,9 @@ https://d3dilkfpueg8q1.cloudfront.net/10BoldNSW/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/250px-10_Peach_logo_2018.svg.png" group-title="Free to Air (Sydney)",10 Peach
 https://dwd941bx75no0.cloudfront.net/10PeachNSW/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/10_Shake_logo_2020.svg/250px-10_Shake_logo_2020.svg.png" group-title="Free to Air (Sydney)",10 Shake
+https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/SBS_logo.svg/200px-SBS_logo.svg.png" group-title="Free to Air (Sydney)",SBS
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
 
