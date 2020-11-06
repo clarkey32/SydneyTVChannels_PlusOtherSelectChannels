@@ -197,3 +197,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/12
 
 #EXTINF:-1,tvg-logo="X" group-title="Cartoons",TeleToon+ (France)
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="News",CNN (US)
+https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/VIDEO_2_1028000.m3u8
