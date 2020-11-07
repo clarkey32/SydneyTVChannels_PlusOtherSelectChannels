@@ -200,6 +200,3 @@ http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="News",CNN (US)
 https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/VIDEO_2_1028000.m3u8
-
-#EXTINF:-1,tvg-logo="X" group-title="Sports",Fox League
-https://497d77a9d7b848b183809ecbaaebac2b.mediatailor.ap-southeast-2.amazonaws.com/v1/manifest/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/761f422bb93edb7b-hls-policy/919e99dd-3ceb-4a8a-aa5a-e08d6247c786/5.m3u8
