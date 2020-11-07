@@ -200,3 +200,9 @@ http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="News",CNN (US)
 https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/VIDEO_2_1028000.m3u8
+
+#EXTINF:-1,tvg-logo="X" group-title="News",ABC News (US)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1,tvg-logo="X" group-title="News",CBS News (US)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
