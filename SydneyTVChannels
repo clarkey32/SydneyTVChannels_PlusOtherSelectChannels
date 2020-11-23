@@ -93,33 +93,6 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-1,tvg-logo="https://30a.com/wp-content/uploads/2018/05/30A-logo.gif" group-title="Music",30A Music (USA)
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5b83fddb0263265af99cd1af38eb4300.png" group-title="Music",DJING Classic (France)
-http://djing.com/tv/hits.m3u8
-
-#EXTINF:-1,tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5b83fddb0263265af99cd1af38eb4300.png" group-title="Music",DJING Dancefloor (France)
-http://djing.com/tv/dancefloor.m3u8
-
-#EXTINF:-1,tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5b83fddb0263265af99cd1af38eb4300.png" group-title="Music",DJING Electro Rock (France)
-http://djing.com/tv/session_electro-rock.m3u8
-
-#EXTINF:-1,tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5b83fddb0263265af99cd1af38eb4300.png" group-title="Music",DJING French Touch (France)
-http://djing.com/tv/session_french-touch.m3u8
-
-#EXTINF:-1,tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5b83fddb0263265af99cd1af38eb4300.png" group-title="Music",DJING Ibiza (France)
-http://www.djing.com/tv/ibiza.m3u8
-
-#EXTINF:-1,tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5b83fddb0263265af99cd1af38eb4300.png" group-title="Music",DJING Karaoke (France)
-http://www.djing.com/tv/karaoke.m3u8
-
-#EXTINF:-1,tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5b83fddb0263265af99cd1af38eb4300.png" group-title="Music",DJING Summer Vibes (France)
-http://djing.com/tv/session_summer-vibes.m3u8
-
-#EXTINF:-1,tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5b83fddb0263265af99cd1af38eb4300.png" group-title="Music",DJING TV (France)
-http://djing.com/tv/live.m3u8
-
-#EXTINF:-1,tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5b83fddb0263265af99cd1af38eb4300.png" group-title="Music",DJING Underground (France)
-http://djing.com/tv/underground.m3u8
-
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/220px-VH1_logonew.svg.png" group-title="Music",VH1 (Italy)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
@@ -192,17 +165,8 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/The_Box_2013.png/175px-The_Box_2013.png" group-title="Music",Box Hits (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:-1,tvg-logo="X" group-title="Entertainment",Funniest Home Videos (US)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-
 #EXTINF:-1,tvg-logo="X" group-title="Cartoons",TeleToon+ (France)
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="News",CNN (US)
-https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/VIDEO_2_1028000.m3u8
-
-#EXTINF:-1,tvg-logo="X" group-title="News",ABC News (US)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1,tvg-logo="X" group-title="News",CBS News (US)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
